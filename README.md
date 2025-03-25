@@ -24,7 +24,7 @@ This project is made so all the elements are displayed correctly on popular scre
 
 This page is deployed to Github pages
 
-- Deployment link: https://github.com/Laurenn23/se_project_spots
+- [Deployment link:](https://laurenn23.github.io/se_project_spots/)
 
 **Images**
 
