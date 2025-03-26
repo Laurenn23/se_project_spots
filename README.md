@@ -25,6 +25,7 @@ This project is made so all the elements are displayed correctly on popular scre
 This page is deployed to Github pages
 
 - [Deployment link:](https://laurenn23.github.io/se_project_spots/)
+- [Project video link:] (https://drive.google.com/file/d/1kSr0xs3rYTfj0__VrNppLHandvOHYRDv/view?usp=sharing)
 
 **Images**
 
