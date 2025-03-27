@@ -60,7 +60,7 @@
 }
 
 .profile__edit-button:hover {
-  opacity: 0.5;
+  opacity: 1;
 }
 
 .profile__add-button {
@@ -76,10 +76,11 @@
   align-items: center;
   justify-content: center;
   cursor: pointer;
+  border: none;
 }
 
 .profile__add-button:hover {
-  opacity: 0.5;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 627px) {
