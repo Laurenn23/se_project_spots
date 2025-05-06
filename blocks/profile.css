@@ -63,7 +63,7 @@
   opacity: 1;
 }
 
-.profile__add-button {
+.profile__new-post-button {
   margin-left: auto;
   background-color: #212121;
   color: #fcf5e5;
@@ -79,7 +79,7 @@
   border: none;
 }
 
-.profile__add-button:hover {
+.profile__new-post-button:hover {
   opacity: 0.8;
 }
 
@@ -117,7 +117,7 @@
     margin: auto;
   }
 
-  .profile__add-button {
+  .profile__new-post-button {
     margin: 0;
     width: 100%;
   }
