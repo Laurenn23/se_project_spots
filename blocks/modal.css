@@ -43,7 +43,7 @@
 }
 
 .modal__close-button:hover {
-  opacity: 1;
+  opacity: 0.4;
 }
 
 .modal__title {
@@ -73,7 +73,7 @@
   width: 100%;
   padding: 16px 12px;
   border-radius: 8px;
-  border-color: #21212166;
+  border: 1px solid #21212166;
   font-weight: 500;
   font-size: 20px;
   color: #212121;
@@ -81,7 +81,7 @@
 }
 
 .modal__input::placeholder {
-  color: 2121214d;
+  color: #2121214d;
 }
 
 .modal__input:hover {
